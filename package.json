@@ -1,0 +1,23 @@
+{
+  "name": "exploration-go",
+  "version": "0.0.0",
+  "description": "this package.json needed to create commitizen and standard versioning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yussan/exploration-go.git"
+  },
+  "keywords": [
+    "go",
+    "golang"
+  ],
+  "author": "yussan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yussan/exploration-go/issues"
+  },
+  "homepage": "https://github.com/yussan/exploration-go#readme"
+}
